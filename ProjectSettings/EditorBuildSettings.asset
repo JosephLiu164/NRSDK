@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/NRSDKExperimental/Demos/MappingExample.unity
+    guid: e75a8c0548f7c3b44a68f2662d18d5a0
   m_configObjects: {}
